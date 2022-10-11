@@ -1,0 +1,6 @@
+out 10, 2022 11:42:38 PM ClassLog.Principal main
+INFORMAÇÕES: Log de informação
+out 10, 2022 11:42:38 PM ClassLog.Principal main
+ADVERTÊNCIA: Log de aviso
+out 10, 2022 11:42:38 PM ClassLog.Principal main
+GRAVE: Log severo
